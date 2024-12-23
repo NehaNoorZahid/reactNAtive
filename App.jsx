@@ -4,7 +4,7 @@ import React from 'react'
 const App = () => {
   return (
     <View>
-      <Text style = {{fontSize : 30}}>Neha</Text>
+      <Text style = {{fontSize : 30}}>no</Text>
       <Button title='Press here' />
     </View>
   )
